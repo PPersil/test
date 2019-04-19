@@ -4,9 +4,9 @@ test
 
 
 Liste :
-*sd
-*azeaze
-*rzezrt## Welcome to GitHub Pages
+-sd
+-azeaze
+-rzezrt## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PPersil/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
